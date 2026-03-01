@@ -1,0 +1,14 @@
+{
+  "paths": {
+    "project_root": "<path_to_save_folder>",
+    "data_dir": "data",
+    "figures_dir": "figures",
+    "tables_dir": "tables"
+  },
+  "settings": {
+      "default_scale": 100.0,
+      "save_plots": true,
+      "dpi": 300,
+      "plot_format": "png"
+  }
+}

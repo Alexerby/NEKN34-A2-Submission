@@ -1,0 +1,15 @@
+# Data Manipulation
+numpy==1.26.4
+pandas==2.1.4
+Jinja2
+
+# Econometrics and Statistics
+scipy
+statsmodels
+arch
+
+# Visualization
+matplotlib==3.6.3
+
+# Development & Packaging
+setuptools
